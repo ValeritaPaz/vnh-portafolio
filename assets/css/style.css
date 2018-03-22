@@ -238,6 +238,12 @@ h1, h2, h3, h4, h5, h6 {
   float: left;
 }
 
+#header #logo .name-logo {
+  font-family: 'Satisfy', cursive; 
+  text-transform: capitalize; 
+  color: #fff;
+}
+
 #header #logo h1 {
   font-size: 36px;
   margin: 0;
