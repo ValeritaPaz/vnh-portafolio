@@ -574,6 +574,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 
+.margins {
+  padding: 0 100px;
+}
+
 /* Portfolio Section
 --------------------------------*/
 #portfolio {
